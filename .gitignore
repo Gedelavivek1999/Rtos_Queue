@@ -1,0 +1,10 @@
+# Build outputs
+debug/
+build/
+*.elf
+*.bin
+*.o
+
+# SDK cache & local tools
+__repo__/
+.mcuxpresso/
